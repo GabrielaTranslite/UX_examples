@@ -22,7 +22,7 @@ The following mockup strings have been created using GPT-4o and subsequently tra
 
 ### **Welcome Screen:**
 **English:** Welcome to {appName}! Let's get you started.  
-Polish: "Witamy w aplikacji {appName}! Zaczynajmy."
+**Polish:** Witamy w aplikacji {appName}! Zaczynajmy.
 
 **Permission Request:**
 **English:** Allow {permission} to continue.  
